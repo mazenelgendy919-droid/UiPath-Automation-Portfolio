@@ -1,0 +1,6 @@
+{
+  "Name": "Task4_IMDb_Movie_Rating_Automation",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

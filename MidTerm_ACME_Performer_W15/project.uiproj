@@ -1,0 +1,6 @@
+{
+  "Name": "MidTerm_ACME_Performer_W15",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
